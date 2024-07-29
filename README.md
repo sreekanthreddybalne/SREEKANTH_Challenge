@@ -14,7 +14,7 @@ This repository contains Terraform scripts and configuration to deploy a scalabl
 #### Steps to Deploy
 1. Clone the repository
     ```bash
-    git clone https://github.com/yourusername/<FIRSTNAME>_Challenge.git
+    git clone https://github.com/yourusername/SREEKANTH_Challenge.git
     cd SREEKANTH_Challenge
     ```
 2. Initialize Terraform
